@@ -1,0 +1,30 @@
+.Mega h5 {
+    margin: 30px;
+}
+
+.Mega input {
+    font-size: 1.4rem;
+    width: 60px;
+}
+
+.Mega button {
+    margin: 15px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: #8f1429;
+    font-size: 1.4rem;
+    color: #fff;
+}
+
+.Mega h6 {
+    margin: 5px;
+    padding: 5px;
+}
+
+.Mega .Sorteados {
+    display: inline-block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-break: break-word;
+}
